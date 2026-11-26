@@ -1,0 +1,7 @@
+# Maven / IntelliJ
+target/
+.idea/
+*.iml
+# Ficheros que genera el programa
+salida/*
+!salida/.gitkeep

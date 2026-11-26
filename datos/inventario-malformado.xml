@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inventario fecha="2026-10-01">
+    <producto id="1">
+        <nombre>Producto con la etiqueta sin cerrar
+        <categoria>Perifericos</categoria>
+    </producto>
+</inventario>

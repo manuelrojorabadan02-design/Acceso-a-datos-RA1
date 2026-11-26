@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE inventario [
+    <!ENTITY secreto SYSTEM "file:///etc/hostname">
+]>
+<inventario fecha="2026-10-01">
+    <producto id="1">
+        <nombre>&secreto;</nombre>
+        <categoria>Prueba</categoria>
+        <precio moneda="EUR">1.00</precio>
+        <stock>1</stock>
+    </producto>
+</inventario>
